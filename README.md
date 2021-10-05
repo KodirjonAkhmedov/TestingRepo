@@ -2,4 +2,4 @@
 
 
 
-Kodirjon
+Kodirjon Akhmedov
