@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 kodirjon
+=======
+hhdd
+>>>>>>> u
